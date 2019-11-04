@@ -21,7 +21,7 @@ schema:
     commands:
       install:
         status: true
-        method: robo all-build-local
+        method: robo build
       run:
         status: true
         method: ./docker/api/bin/api-server
