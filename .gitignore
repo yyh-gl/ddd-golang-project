@@ -1,0 +1,6 @@
+logs/*.log
+logs/backup
+docker/mysql
+docker/**/bin
+dist
+.secret_env
